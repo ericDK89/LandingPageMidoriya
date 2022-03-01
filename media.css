@@ -2,7 +2,12 @@
     header {
         flex-direction: column;
     }
+    ul {
+        display: none;
+    }
     main {
+        margin-top: -40px;
+        text-align: center;
         flex-direction: column;
     }
     h2 {
@@ -14,9 +19,14 @@
     }
     .btn-aside {
         width: 100%;
+        transition: none;
+    }
+    .btn-aside:hover {
+        width: 100%;
+        transition: none;
     }
     img {
         justify-items: flex-end;
-        width: 200px;
+        width: 300px;
     }
 }
