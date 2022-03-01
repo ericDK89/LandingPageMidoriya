@@ -1,0 +1,22 @@
+@media screen and (max-width: 1024px) {
+    header {
+        flex-direction: column;
+    }
+    main {
+        flex-direction: column;
+    }
+    h2 {
+        font-size: 40px;
+        line-height: 35px;
+    }
+    p {
+        width: 100%;
+    }
+    .btn-aside {
+        width: 100%;
+    }
+    img {
+        justify-items: flex-end;
+        width: 200px;
+    }
+}
