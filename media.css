@@ -26,7 +26,6 @@
         transition: none;
     }
     img {
-        justify-items: flex-end;
-        width: 300px;
+        display: none;
     }
 }
