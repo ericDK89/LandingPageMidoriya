@@ -18,3 +18,7 @@ Tecnologias utilizadas:
 Ideia do projeto retirada do canal "Alexandre Saints". 
 
 🖥 Link do vídeo que me inspirei: https://www.youtube.com/watch?v=edDCEK5QWE8
+
+#
+
+Feito por Eric <a href="https://www.linkedin.com/in/eric-macedo-9b47601b1/">🌌[Veja meu LinkedIn]</a>
