@@ -1,4 +1,6 @@
-Landing page, inspirada no personagem "Midorya". 
+## ✨ Landing page, inspirada no personagem "Midorya". 
+
+  
 
 Ideia do projeto retirada do canal "Alexandre Saints". 
 
