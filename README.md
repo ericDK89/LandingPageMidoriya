@@ -21,4 +21,4 @@ Ideia do projeto retirada do canal "Alexandre Saints".
 
 #
 
-Feito por Eric <a href="https://www.linkedin.com/in/eric-macedo-9b47601b1/">🌌[Veja meu LinkedIn]</a>
+Feito por Eric <a href="https://www.linkedin.com/in/eric-macedo-9b47601b1/"> 🌌 [ Veja meu LinkedIn ]</a>
