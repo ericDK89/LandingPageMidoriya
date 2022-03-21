@@ -2,7 +2,9 @@
 
 <img witdh="500" title="Landing Page 'Midorya'" src="https://user-images.githubusercontent.com/68076508/159206962-4e0996f4-fc49-481d-9e67-f8807e147e10.gif">
 
-### 🖥 Link para a landing page: https://ericdk89.github.io/landingpage.github.io/
+#### 🖥 Link para a landing page: https://ericdk89.github.io/landingpage.github.io/
+
+##
 
 Tecnologias utilizadas: 
 
